@@ -1,0 +1,6 @@
+Cliente válido registrado
+El nombre no puede estar vacío
+Reserva exitosa
+La duración debe ser mayor a cero
+Reserva cancelada
+Reserva procesada
